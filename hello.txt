@@ -11,4 +11,4 @@ hello Wangwei! hello Git!
 hello Wangwei! hello Git!
 hello Wangwei! hello Git!
 hello Wangwei! hello Git!
-hello Wangwei! hello Git!
+hello Wangwei! hello Git!  hot-fix test
