@@ -10,8 +10,5 @@ hello Wangwei! hello Git!
 hello Wangwei! hello Git!
 hello Wangwei! hello Git!
 hello Wangwei! hello Git!
-<<<<<<< HEAD
 hello Wangwei! hello Git! master test
-=======
 hello Wangwei! hello Git!  hot-fix test
->>>>>>> hot-fix
