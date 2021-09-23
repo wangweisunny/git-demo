@@ -14,3 +14,4 @@ hello Wangwei! hello Git! master test
 hello Wangwei! hello Git!  hot-fix test
 wangweinizhenlihaiya!!!
 这个部分是我在git进行的最新的更改！
+这个用来测试ssh免密登录！！！
